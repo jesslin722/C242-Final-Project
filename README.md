@@ -1,7 +1,7 @@
 # Leveraging CNN-LSTM Autoencoder and GNN Classifier for Predicting Potential HIV Therapeutic Molecules
 Course BioE C242- Machine Learning, Statistical Models, and Optimization for Biological and Chemical Problems Final Project
 
-Spring 2024
+U.C. Berkeley– Spring 2024
 
 Members: 
 Yu-Chieh (Jess) Lin | jesslin.722@berkeley.edu, Yi-Hong (Ian) Liu | yihong_liu@berkeley.edu
