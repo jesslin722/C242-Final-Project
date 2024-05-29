@@ -1,5 +1,5 @@
 # Leveraging CNN-LSTM Autoencoder and GNN Classifier for Predicting Potential HIV Therapeutic Molecules
-Course C242- Machine Learning, Statistical Models, and Optimization for Biological and Chemical Problems Final Project
+Course BioE C242- Machine Learning, Statistical Models, and Optimization for Biological and Chemical Problems Final Project
 
 Spring 2024
 
